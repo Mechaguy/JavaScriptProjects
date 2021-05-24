@@ -1,2 +1,3 @@
 # JavaScriptProjects
- Practice projects
+ Practice projects using JavaScript
+ 
